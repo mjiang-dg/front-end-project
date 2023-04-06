@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'ng-demo';
   ngOnInit() {
-    alert(1)
+    // alert(1)
   }
 
 }
